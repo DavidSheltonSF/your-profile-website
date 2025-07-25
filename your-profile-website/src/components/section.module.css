@@ -1,0 +1,4 @@
+.section {
+  border-radius: var(--border-radius-16);
+  background-color: var(--clr-primary);
+}
