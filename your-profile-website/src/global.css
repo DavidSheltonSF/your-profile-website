@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
