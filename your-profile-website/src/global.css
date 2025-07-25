@@ -2,7 +2,20 @@
 
 :root {
   --clr-primary: #fff;
+
   --clr-secondary: #1e4ac5;
+  --clr-secondary-light: #4169d6;
+
+
+  --border-radius-16: 16px;
+
+  --clr-box-shadow: ;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
 }
 
 body {
